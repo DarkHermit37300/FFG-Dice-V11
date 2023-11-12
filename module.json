@@ -1,0 +1,26 @@
+{
+  "name": "FFG-Dice-V11",
+  "title": "Star Wars FFG Dice for FoundryVTT V11",
+  "description": "This module integrates the Star Wars FFG dice system into the Cypher System for Foundry Virtual Tabletop. It allows players to use FFG's unique dice and symbols for actions and checks within the Cypher System.",
+  "version": "1.0.0",
+  "compatibleCoreVersion": "11.x",
+  "minimumCoreVersion": "9.0",
+  "author": "LavyD",
+  "url": "https://github.com/DarkHermit37300/FFG-Dice-V11",
+  "manifest": "https://github.com/DarkHermit37300/FFG-Dice-V11/module.json",
+  "download": "https://github.com/DarkHermit37300/FFG-Dice-V11/FFG-Dice-for-Cypher.zip",
+  "readme": "https://github.com/DarkHermit37300/FFG-Dice-V11/README.md",
+  "changelog": "https://github.com/DarkHermit37300/FFG-Dice-V11/CHANGELOG.md",
+  "license": "https://github.com/DarkHermit37300/FFG-Dice-V11/LICENSE",
+  "esmodules": ["scripts/main.js"],
+  "styles": ["styles/main.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [],
+  "dependencies": []
+}
